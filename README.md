@@ -32,7 +32,7 @@
 ## 安装
 
     pip3 install requests pysocks
-    git clone https://github.com/BlueSkyXN/CCATK.git
+    git clone https://github.com/a8866051/CCATK.git
     cd CCATK
 
 ## 使用
